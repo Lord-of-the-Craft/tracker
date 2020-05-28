@@ -1,5 +1,6 @@
 # LotC Bug Tacker
 Submit an issue here: https://github.com/Lord-of-the-Craft/tracker/issues
+
 Please answer the following questions to help us better track down the cause of a particular bug:
 
 
